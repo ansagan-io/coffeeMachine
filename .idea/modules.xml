@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Coffee_Machine.Problems-Cinema.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Coffee_Machine.Problems-Fill_the_matrix_by_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing each word in a new line/Coffee_Machine.Problems-Printing_each_word_in_a_new_line.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectange array/Coffee_Machine.Problems-Rotate_a_rectange_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
